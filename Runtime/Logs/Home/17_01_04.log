@@ -142,3 +142,30 @@ INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
 ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
 
+[ 2017-01-04T18:47:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T18:47:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T18:47:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
