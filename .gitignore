@@ -48,3 +48,4 @@ Temporary Items
 .idea*
 Runtime/Logs/Home/17_01_04.log
 .idea/workspace.xml
+Runtime/*
