@@ -25,3 +25,12 @@ INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
 ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
 
+[ 2017-01-04T18:08:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
