@@ -1,1 +1,39 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>添加标签</title><bootstrapcss/></head><body><form action="{:U('Admin/Tag/edit')}" method="post"><table class="table table-bordered table-striped table-hover table-condensed"> <input type="hidden" name="tid" value="{$data['tid']}"><tr><th>标签名</th><td> <input class="form-control modal-sm" type="text" name="tname" value="{$data['tname']}"></td></tr><tr><th></th><td> <input class="btn btn-success" type="submit" value="修改"></td></tr></table></form><bootstrapjs/></body></html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>添加标签</title>
+    <include file="Template/default/CssSrc/css.html" />
+</head>
+
+<body>
+<form action="" method="post" id="blog-form">
+    <table class="table table-bordered table-striped table-hover table-condensed">
+        <input type="hidden" name="tid" value="{$data['tid']}">
+        <tr>
+            <th>标签名</th>
+            <td>
+                <input class="form-control modal-sm" type="text" name="tname" value="{$data['tname']}">
+            </td>
+        </tr>
+        <tr>
+            <th></th>
+            <td>
+                <input class="btn btn-success" id="blog-button-submit" type="button" value="修改">
+            </td>
+        </tr>
+    </table>
+</form>
+<include file="Template/default/JsFile/js.html" />
+</body>
+<script>
+    var SCOPE={
+        "save_url" :　"/Admin/Tag/edit",
+        "jump_url" : "/Admin/Tag/index"
+    }
+
+</script>
+
+
+</html>

@@ -1,10 +1,10 @@
 <?php
 namespace Admin\Controller;
-use Common\Controller\AdminBaseController;
+use Think\Controller;
 /**
  * 回收管理
  */
-class RecycleController extends AdminBaseController{
+class RecycleController extends Controller{
     //空操作 自动载入当前模板
     public function _empty($name){
         $this->display($name);

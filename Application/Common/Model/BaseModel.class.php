@@ -2,8 +2,8 @@
 namespace Common\Model;
 use Think\Model;
 /**
-* 基类model
-*/
+ * 基类model
+ */
 Class BaseModel extends Model{
 
 

@@ -1,14 +1,14 @@
 {
-    "name": "bjyblog",
-    "description": "the bjyblog blog",
-    "type": "blog",
-    "keywords": ["bjyblog","thinkphp","blog"],
-    "homepage": "http://baijunyao.com",
+    "name": "topthink/thinkphp",
+    "description": "the ThinkPHP Framework",
+    "type": "framework",
+    "keywords": ["framework","thinkphp","ORM"],
+    "homepage": "http://thinkphp.cn/",
     "license": "Apache2",
     "authors": [
         {
-            "name": "baijunyao",
-            "email": "baijunyao@baijunyao.com"
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
         }
     ],
     "require": {
@@ -16,4 +16,3 @@
     },
     "minimum-stability": "dev"
 }
-

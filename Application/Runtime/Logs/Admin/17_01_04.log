@@ -1,0 +1,276 @@
+[ 2017-01-04T19:35:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002362s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002571s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-01-04T19:35:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000436s ]
+NOTIC: [8] Undefined variable: all_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 20 行.
+NOTIC: [8] Undefined variable: delete_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 21 行.
+NOTIC: [8] Undefined variable: hide_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 22 行.
+NOTIC: [8] Undefined variable: all_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 28 行.
+NOTIC: [8] Undefined variable: delete_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 29 行.
+NOTIC: [8] Undefined variable: hide_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 30 行.
+NOTIC: [8] Undefined variable: all_comment F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-01-04T19:35:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-01-04T19:35:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Undefined variable: all_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 20 行.
+NOTIC: [8] Undefined variable: delete_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 21 行.
+NOTIC: [8] Undefined variable: hide_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 22 行.
+NOTIC: [8] Undefined variable: all_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 28 行.
+NOTIC: [8] Undefined variable: delete_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 29 行.
+NOTIC: [8] Undefined variable: hide_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 30 行.
+NOTIC: [8] Undefined variable: all_comment F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-01-04T19:35:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-01-04T19:35:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined variable: all_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 20 行.
+NOTIC: [8] Undefined variable: delete_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 21 行.
+NOTIC: [8] Undefined variable: hide_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 22 行.
+NOTIC: [8] Undefined variable: all_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 28 行.
+NOTIC: [8] Undefined variable: delete_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 29 行.
+NOTIC: [8] Undefined variable: hide_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 30 行.
+NOTIC: [8] Undefined variable: all_comment F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-01-04T19:35:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2017-01-04T19:35:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined variable: all_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 20 行.
+NOTIC: [8] Undefined variable: delete_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 21 行.
+NOTIC: [8] Undefined variable: hide_article F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 22 行.
+NOTIC: [8] Undefined variable: all_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 28 行.
+NOTIC: [8] Undefined variable: delete_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 29 行.
+NOTIC: [8] Undefined variable: hide_chat F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 30 行.
+NOTIC: [8] Undefined variable: all_comment F:\github_php\simpleblog\Application\Runtime\Cache\Admin\632f204e2f9774585c1195d45127ded7.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-01-04T19:35:40+08:00 ] 127.0.0.1 /index.php/Admin/Tag/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T19:35:42+08:00 ] 127.0.0.1 /index.php/Admin/Tag/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T19:35:43+08:00 ] 127.0.0.1 /index.php/Admin/Tag/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T19:35:44+08:00 ] 127.0.0.1 /index.php/Admin/Tag/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T19:35:45+08:00 ] 127.0.0.1 /index.php/Admin/Tag/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'bjyblog'
+
+[ 2017-01-04T19:36:18+08:00 ] 127.0.0.1 /index.php/Admin/Tag/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `yzw_tag` [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-01-04T19:36:19+08:00 ] 127.0.0.1 /index.php/Admin/Tag/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `yzw_tag` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yzw_tag`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
