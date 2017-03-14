@@ -32,7 +32,6 @@ class CategoryModel extends Model{
             }else{
                 return $data;
             }
-
         }else{
             return $this->getField("cid,$field");
         }
